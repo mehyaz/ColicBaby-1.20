@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198138119319",
+    "firebase_url": "https://colic-baby-33f2b.firebaseio.com",
+    "project_id": "colic-baby-33f2b",
+    "storage_bucket": "colic-baby-33f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198138119319:android:cd2f66c2fd6d112f",
+        "android_client_info": {
+          "package_name": "com.mozo.meyaz.colicbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198138119319-0iarfa0pnibuba41n1jo5fmushsg3d1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQlEyVPd3MnmBP1ke-kxT_Gqiy77LSWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

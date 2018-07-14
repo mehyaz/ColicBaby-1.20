@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/baby"
+        android:adjustViewBounds="true"/>
+
+    <!--<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:gravity="center">
+
+    </LinearLayout>-->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_10sdp">
+
+                <!--<ImageView
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    android:src="@drawable/anim"
+                    android:id="@+id/ic"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    />-->
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/app_name"
+                    android:textSize="@dimen/_24sdp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tanim"
+                    android:textSize="12sp"/>
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_8sdp"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:layout_marginRight="@dimen/_16sdp"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:text="@string/des1"
+                    android:textSize="@dimen/_10sdp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/des2"
+                    android:gravity="center"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                    android:layout_margin="@dimen/_8sdp"
+                    android:textSize="@dimen/_12sdp"
+            />
+
+
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/privacy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/gizlilik"
+                android:textColor="#80D8FF"
+                android:textSize="@dimen/_12sdp"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/iletisim"
+        android:textSize="@dimen/_14sdp"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_6sdp"/>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:gravity="center"
+        android:layout_marginBottom="0dp"
+        android:layout_height="50dp">
+
+    <!--    <ImageView
+            android:id="@+id/face"
+            android:src="@drawable/facebook"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="42dp"
+            android:layout_height="42dp"/>-->
+
+        <ImageView
+            android:id="@+id/mail"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/_48sdp"
+            android:layout_marginRight="@dimen/_48sdp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/mail" />
+
+       <!-- <ImageView
+            android:id="@+id/play"
+            android:scaleType="fitXY"
+            android:src="@drawable/play"
+            android:adjustViewBounds="true"
+            android:layout_width="42dp"
+            android:layout_height="42dp"/>-->
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

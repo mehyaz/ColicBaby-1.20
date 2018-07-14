@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kolik Bebe</string>
+    <string name="cikis_btn">ÇIKIŞ</string>
+    <string name="zamanlayici_no">İPTAL</string>
+    <string name="zamanlayici_ok">AYARLA</string>
+    <string name="zamanlayici_yazi">Kapanış Süresini Ayarla</string>
+    <string name="gizlilik">Gizlilik Politikası</string>
+    <string name="iletisim">Bizimle iletişime geçin</string>
+    <string name="tanim">Kolik Bebe uygulaması, nesiller boyu etkili olduğu kanıtlanmış klasik monoton sesler (\"beyaz gürültü\") kullanarak bebeğinizin (ve siz!) uykuya dalmasına yardımcı olur.</string>
+    <string name="des2">MOZO YAZILIM</string>
+    <string name="des1">All rights reserved.</string>
+    <string name="slogan">Mutlu Bebek, Mutlu Aile</string>
+
+    <string name="facebook_app_id">951265818413528</string>
+    <string name="fb_login_protocol_scheme">fb951265818413528</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बेबी पेट का दर्द</string>
+    <string name="cikis_btn">बाहर जाएं</string>
+    <string name="zamanlayici_no">रद्द</string>
+    <string name="zamanlayici_ok">ठीक</string>
+    <string name="zamanlayici_yazi">टाइमर सेट</string>
+    <string name="gizlilik">गोपनीयता नीति</string>
+    <string name="iletisim">हमसे संपर्क करें</string>
+    <string name="des2">MOZO YAZILIM</string>
+    <string name="des1">All rights reserved.</string>
+    <string name="tanim">Colic Baby app helps your baby (and you!) to fall asleep using classic monotonous sounds (\"white noise\") proven to be effective by generations of parent.</string>
+    <string name="slogan">खुश बच्चे, खुश परिवार</string>
+
+    <string name="facebook_app_id">951265818413528</string>
+    <string name="fb_login_protocol_scheme">fb951265818413528</string>
+
+
+</resources>

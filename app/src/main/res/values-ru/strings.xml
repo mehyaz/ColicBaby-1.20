@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Колики ребенок</string>
+    <string name="cikis_btn">ВЫХОД</string>
+    <string name="zamanlayici_yazi">время выключения</string>
+    <string name="zamanlayici_ok">ок</string>
+    <string name="zamanlayici_no">отменить</string>
+    <string name="gizlilik">политика конфиденциальности</string>
+    <string name="iletisim">Свяжитесь с нами</string>
+    <string name="des2">MOZO YAZILIM</string>
+    <string name="des1">All rights reserved.</string>
+    <string name="tanim">Colic Baby app helps your baby (and you!) to fall asleep using classic monotonous sounds (\"white noise\") proven to be effective by generations of parent.</string>
+    <string name="slogan">Счастливый ребенок, счастливая семья</string>
+
+    <string name="facebook_app_id">951265818413528</string>
+    <string name="fb_login_protocol_scheme">fb951265818413528</string>
+
+
+</resources>

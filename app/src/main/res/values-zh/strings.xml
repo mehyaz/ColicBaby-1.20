@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">绞痛</string>
+    <string name="cikis_btn">出口</string>
+    <string name="zamanlayici_ok">确定</string>
+    <string name="zamanlayici_no">取消</string>
+    <string name="zamanlayici_yazi">关闭时间</string>
+    <string name="gizlilik">隐私政策</string>
+    <string name="iletisim">聯繫我們</string>
+    <string name="des2">MOZO YAZILIM</string>
+    <string name="des1">All rights reserved.</string>
+    <string name="tanim">Colic Baby app helps your baby (and you!) to fall asleep using classic monotonous sounds (\"white noise\") proven to be effective by generations of parent.</string>
+    <string name="slogan">幸福的宝贝，幸福的家庭</string>
+
+    <string name="facebook_app_id">951265818413528</string>
+    <string name="fb_login_protocol_scheme">fb951265818413528</string>
+
+
+</resources>
